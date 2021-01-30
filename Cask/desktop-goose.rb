@@ -14,5 +14,3 @@ cask "desktop-goose" do
     "~/Library/Application Scripts/net.namedfork.DesktopGoose",
   ]
 end
-  
-
